@@ -1,0 +1,29 @@
+{
+  "name": "ejercicio-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOOSSIILL/Ejercicio-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOOSSIILL/Ejercicio-Typescript/issues"
+  },
+  "homepage": "https://github.com/FOOSSIILL/Ejercicio-Typescript#readme",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "serve": "^14.2.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
